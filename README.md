@@ -41,7 +41,3 @@ This repository contains code and replication materials for a Difference-in-Diff
 - The analysis uses IHS (inverse hyperbolic sine) transformations to deal with zeros and skewed bird counts.
 - Identification strategy relies on parallel trends (visually and statistically assessed).
 - Extensive robustness checks are included.
-
----
-
-Let me know if you want this customized further (e.g., add figures, binder/Colab support, or licensing info).
